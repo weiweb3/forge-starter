@@ -3,7 +3,7 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 remappings = [
-    '@thirdweb-dev/=node_modules/@thirdweb-dev/',
+    '@weiweb3/=node_modules/@weiweb3/',
 ]
 
 
